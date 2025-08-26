@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+coverage/
+tmp/
+logs/
+.env
+.env.*
+*.zip
+*.z0*
+*.tar.*
+*.sql
